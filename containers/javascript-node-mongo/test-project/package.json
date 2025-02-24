@@ -1,12 +1,12 @@
 {
-	"name": "docker_web_app",
-	"description": "Node.js + MongoDB",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
 	"dependencies": {
 		"mongodb": "6.13.0"
 	},
-	"devDependencies": {}
+	"description": "Node.js + MongoDB",
+	"devDependencies": {},
+	"main": "server.js",
+	"name": "docker_web_app",
+	"scripts": {
+		"start": "node server.js"
+	}
 }
