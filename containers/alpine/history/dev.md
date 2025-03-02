@@ -7,10 +7,10 @@
 
 **Definition variations:**
 
--   [3.16](#variant-316)
--   [3.15](#variant-315)
--   [3.14](#variant-314)
--   [3.13](#variant-313)
+- [3.16](#variant-316)
+- [3.15](#variant-315)
+- [3.14](#variant-314)
+- [3.13](#variant-313)
 
 ## Variant: 3.16
 

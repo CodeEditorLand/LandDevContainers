@@ -7,8 +7,8 @@
 
 **Definition variations:**
 
--   [2.7-bullseye](#variant-27-bullseye)
--   [2.7-buster](#variant-27-buster)
+- [2.7-bullseye](#variant-27-bullseye)
+- [2.7-buster](#variant-27-buster)
 
 ## Variant: 2.7-bullseye
 

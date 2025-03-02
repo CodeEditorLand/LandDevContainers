@@ -7,12 +7,12 @@
 
 **Definition variations:**
 
--   [3.1-bullseye](#variant-31-bullseye)
--   [3.0-bullseye](#variant-30-bullseye)
--   [2.7-bullseye](#variant-27-bullseye)
--   [3.1-buster](#variant-31-buster)
--   [3.0-buster](#variant-30-buster)
--   [2.7-buster](#variant-27-buster)
+- [3.1-bullseye](#variant-31-bullseye)
+- [3.0-bullseye](#variant-30-bullseye)
+- [2.7-bullseye](#variant-27-bullseye)
+- [3.1-buster](#variant-31-buster)
+- [3.0-buster](#variant-30-buster)
+- [2.7-buster](#variant-27-buster)
 
 ## Variant: 3.1-bullseye
 

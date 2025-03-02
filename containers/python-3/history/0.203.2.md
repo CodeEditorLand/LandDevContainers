@@ -7,16 +7,16 @@
 
 **Definition variations:**
 
--   [3.10-bullseye](#variant-310-bullseye)
--   [3.9-bullseye](#variant-39-bullseye)
--   [3.8-bullseye](#variant-38-bullseye)
--   [3.7-bullseye](#variant-37-bullseye)
--   [3.6-bullseye](#variant-36-bullseye)
--   [3.10-buster](#variant-310-buster)
--   [3.9-buster](#variant-39-buster)
--   [3.8-buster](#variant-38-buster)
--   [3.7-buster](#variant-37-buster)
--   [3.6-buster](#variant-36-buster)
+- [3.10-bullseye](#variant-310-bullseye)
+- [3.9-bullseye](#variant-39-bullseye)
+- [3.8-bullseye](#variant-38-bullseye)
+- [3.7-bullseye](#variant-37-bullseye)
+- [3.6-bullseye](#variant-36-bullseye)
+- [3.10-buster](#variant-310-buster)
+- [3.9-buster](#variant-39-buster)
+- [3.8-buster](#variant-38-buster)
+- [3.7-buster](#variant-37-buster)
+- [3.6-buster](#variant-36-buster)
 
 ## Variant: 3.10-bullseye
 

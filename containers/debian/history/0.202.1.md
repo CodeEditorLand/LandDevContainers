@@ -7,9 +7,9 @@
 
 **Definition variations:**
 
--   [buster](#variant-buster)
--   [bullseye](#variant-bullseye)
--   [stretch](#variant-stretch)
+- [buster](#variant-buster)
+- [bullseye](#variant-bullseye)
+- [stretch](#variant-stretch)
 
 ## Variant: buster
 

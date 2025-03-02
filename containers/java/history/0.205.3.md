@@ -7,10 +7,10 @@
 
 **Definition variations:**
 
--   [17-bullseye](#variant-17-bullseye)
--   [17-buster](#variant-17-buster)
--   [11-bullseye](#variant-11-bullseye)
--   [11-buster](#variant-11-buster)
+- [17-bullseye](#variant-17-bullseye)
+- [17-buster](#variant-17-buster)
+- [11-bullseye](#variant-11-bullseye)
+- [11-buster](#variant-11-buster)
 
 ## Variant: 17-bullseye
 

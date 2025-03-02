@@ -7,10 +7,10 @@
 
 **Definition variations:**
 
--   [1.19-bullseye](#variant-119-bullseye)
--   [1.19-buster](#variant-119-buster)
--   [1.18-bullseye](#variant-118-bullseye)
--   [1.18-buster](#variant-118-buster)
+- [1.19-bullseye](#variant-119-bullseye)
+- [1.19-buster](#variant-119-buster)
+- [1.18-bullseye](#variant-118-bullseye)
+- [1.18-buster](#variant-118-buster)
 
 ## Variant: 1.19-bullseye
 

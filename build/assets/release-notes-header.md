@@ -9,6 +9,6 @@
 
 {{#if hasVariants}} **Definition variations:** {{#each variants}}
 
--   [{{this}}](#variant-{{anchor this}}) {{/each}}
+- [{{this}}](#variant-{{anchor this}}) {{/each}}
 
 {{/if}}

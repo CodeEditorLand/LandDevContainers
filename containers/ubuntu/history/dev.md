@@ -7,9 +7,9 @@
 
 **Definition variations:**
 
--   [jammy](#variant-jammy)
--   [focal](#variant-focal)
--   [bionic](#variant-bionic)
+- [jammy](#variant-jammy)
+- [focal](#variant-focal)
+- [bionic](#variant-bionic)
 
 ## Variant: jammy
 

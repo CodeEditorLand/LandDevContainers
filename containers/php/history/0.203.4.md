@@ -7,12 +7,12 @@
 
 **Definition variations:**
 
--   [8.1-apache-bullseye](#variant-81-apache-bullseye)
--   [8.0-apache-bullseye](#variant-80-apache-bullseye)
--   [7.4-apache-bullseye](#variant-74-apache-bullseye)
--   [8.1-apache-buster](#variant-81-apache-buster)
--   [8.0-apache-buster](#variant-80-apache-buster)
--   [7.4-apache-buster](#variant-74-apache-buster)
+- [8.1-apache-bullseye](#variant-81-apache-bullseye)
+- [8.0-apache-bullseye](#variant-80-apache-bullseye)
+- [7.4-apache-bullseye](#variant-74-apache-bullseye)
+- [8.1-apache-buster](#variant-81-apache-buster)
+- [8.0-apache-buster](#variant-80-apache-buster)
+- [7.4-apache-buster](#variant-74-apache-buster)
 
 ## Variant: 8.1-apache-bullseye
 

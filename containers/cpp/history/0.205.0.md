@@ -7,11 +7,11 @@
 
 **Definition variations:**
 
--   [bullseye](#variant-bullseye)
--   [buster](#variant-buster)
--   [jammy](#variant-jammy)
--   [focal](#variant-focal)
--   [bionic](#variant-bionic)
+- [bullseye](#variant-bullseye)
+- [buster](#variant-buster)
+- [jammy](#variant-jammy)
+- [focal](#variant-focal)
+- [bionic](#variant-bionic)
 
 ## Variant: bullseye
 

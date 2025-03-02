@@ -7,10 +7,10 @@
 
 **Definition variations:**
 
--   [6.0-bullseye-slim](#variant-60-bullseye-slim)
--   [6.0-focal](#variant-60-focal)
--   [3.1-bullseye](#variant-31-bullseye)
--   [3.1-focal](#variant-31-focal)
+- [6.0-bullseye-slim](#variant-60-bullseye-slim)
+- [6.0-focal](#variant-60-focal)
+- [3.1-bullseye](#variant-31-bullseye)
+- [3.1-focal](#variant-31-focal)
 
 ## Variant: 6.0-bullseye-slim
 
