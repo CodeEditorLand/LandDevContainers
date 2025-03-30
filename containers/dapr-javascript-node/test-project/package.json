@@ -1,19 +1,46 @@
 {
 	"name": "docker_web_app",
+	"version": "0.0.1",
+	"private": false,
 	"description": "Node.js on Docker",
+	"keywords": [
+		"codeeditorland",
+		"land",
+		"playform"
+	],
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers#readme",
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+HTTPS://github.com/CodeEditorLand/LandDevContainers.git"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"author": {
+		"name": "Source 🖋️ Open 👐🏻",
+		"email": "Source/Open@Editor.Land",
+		"url": "HTTPS://Editor.Land"
+	},
+	"type": "module",
 	"main": "out/server.js",
 	"scripts": {
 		"compile": "tsc -p tsconfig.json",
 		"dapr": "dapr run --dapr-http-port 3500 --app-id test --app-port 3000 npm run start",
 		"dapr-debug": "dapr run --dapr-http-port 3500 --app-id test --app-port 3000 npm run debug",
 		"debug": "node --inspect=9229 out/server.js",
+		"prepublishOnly": "Build 'Source/**/*.ts'",
 		"start": "node out/server.js"
 	},
 	"dependencies": {
 		"isomorphic-fetch": "3.0.0"
 	},
 	"devDependencies": {
+		"@playform/build": "0.2.1",
 		"@types/isomorphic-fetch": "0.0.39",
 		"@types/node": "22.13.14"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
