@@ -38,7 +38,7 @@
 	"devDependencies": {
 		"@playform/build": "0.2.1",
 		"@types/isomorphic-fetch": "0.0.39",
-		"@types/node": "22.13.14"
+		"@types/node": "22.14.0"
 	},
 	"publishConfig": {
 		"access": "public"
