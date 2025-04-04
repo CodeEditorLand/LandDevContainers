@@ -30,7 +30,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@playform/build": "0.2.1",
+		"@playform/build": "0.2.2",
 		"bs-platform": "9.0.2"
 	},
 	"publishConfig": {

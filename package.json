@@ -37,7 +37,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@playform/build": "0.2.1",
+		"@playform/build": "0.2.2",
 		"copyfiles": "2.4.1",
 		"glob": "11.0.1",
 		"handlebars": "4.7.8",
