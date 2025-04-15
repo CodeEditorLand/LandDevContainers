@@ -1,38 +1,38 @@
 {
-	"name": "docker_web_app",
-	"version": "0.0.1",
-	"private": false,
+	"author": {
+		"email": "Source/Open@Editor.Land",
+		"name": "Source 🖋️ Open 👐🏻",
+		"url": "HTTPS://Editor.Land"
+	},
+	"bugs": {
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers/issues"
+	},
+	"dependencies": {},
 	"description": "Node.js on Docker",
+	"devDependencies": {
+		"@playform/build": "0.2.3"
+	},
+	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers#readme",
 	"keywords": [
 		"codeeditorland",
 		"land",
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers/issues"
+	"license": "SEE LICENSE IN LICENSE",
+	"main": "server.js",
+	"name": "docker_web_app",
+	"private": false,
+	"publishConfig": {
+		"access": "public"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+HTTPS://github.com/CodeEditorLand/LandDevContainers.git"
 	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "Source 🖋️ Open 👐🏻",
-		"email": "Source/Open@Editor.Land",
-		"url": "HTTPS://Editor.Land"
-	},
-	"type": "module",
-	"main": "server.js",
 	"scripts": {
 		"prepublishOnly": "Build 'Source/**/*.ts'",
 		"start": "node server.js"
 	},
-	"dependencies": {},
-	"devDependencies": {
-		"@playform/build": "0.2.3"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+	"type": "module",
+	"version": "0.0.1"
 }

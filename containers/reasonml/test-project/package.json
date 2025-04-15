@@ -1,27 +1,5 @@
 {
 	"name": "test-project",
-	"version": "0.0.1",
-	"private": false,
-	"keywords": [
-		"codeeditorland",
-		"land",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/LandDevContainers.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "Source 🖋️ Open 👐🏻",
-		"email": "Source/Open@Editor.Land",
-		"url": "HTTPS://Editor.Land"
-	},
-	"type": "module",
 	"scripts": {
 		"build": "bsb -make-world",
 		"clean": "bsb -clean-world",
@@ -32,8 +10,5 @@
 	"devDependencies": {
 		"@playform/build": "0.2.3",
 		"bs-platform": "9.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
 	}
 }
