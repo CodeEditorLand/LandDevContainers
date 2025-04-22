@@ -29,7 +29,7 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"mongodb": "6.15.0"
+		"mongodb": "6.16.0"
 	},
 	"devDependencies": {
 		"@playform/build": "0.2.3"
