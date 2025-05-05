@@ -1,11 +1,7 @@
-[[bin]]
-name = "test_project"
-path = "Source/main.rs"
+[package]
+name = "hello_remote_world"
+version = "0.1.0"
+authors = ["VS Code <vscode@microsoft.com>"]
 
 [dev-dependencies]
 postgres = "0.19"
-
-[package]
-authors = ["VS Code <vscode@microsoft.com>"]
-name = "test_project"
-version = "0.1.0"

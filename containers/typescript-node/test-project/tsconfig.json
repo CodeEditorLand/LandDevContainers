@@ -1,20 +1,13 @@
 {
 	"compilerOptions": {
-		"baseUrl": "./",
+		"target": "es6",
 		"module": "commonjs",
-		"outDir": "Target",
-		"rootDir": "src",
-		"sourceMap": true,
 		"strict": true,
-		"target": "es6"
+		"outDir": "out",
+		"sourceMap": true
 	},
 	"exclude": [
 		"out",
 		"node_modules"
-	],
-	"extends": "@playform/build/tsconfig",
-	"include": [
-		"src",
-		"src"
 	]
 }
