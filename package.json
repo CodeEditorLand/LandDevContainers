@@ -21,10 +21,10 @@
 	},
 	"devDependencies": {
 		"copyfiles": "^2.4.1",
-		"glob": "^7.1.6",
+		"glob": "^11.0.2",
 		"jsonc": "^2.0.0",
-		"rimraf": "^2.6.3",
-		"yargs": "^17.2.1",
-		"handlebars": "^4.7.7"
+		"rimraf": "^6.0.1",
+		"yargs": "^18.0.0",
+		"handlebars": "^4.7.8"
 	}
 }
