@@ -14,13 +14,24 @@
 
 # [Deprecated] VS Code / GitHub Codespaces Dev Container Definitions
 
-<table style="width: 100%; border-style: none;"><tr>
-<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vscode-remote/download/extension"><img width="128px" src="https://microsoft.github.io/vscode-remote-release/images/remote-extensionpack.png" alt="Visual Studio Code logo"/></a></td>
-<td>
-<strong>Visual Studio Code Dev Containers and GitHub Codespaces</strong><br />
-<i>Open your code in the cloud, in a local container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
-</td>
-</tr></table>
+<table style="width: 100%; border-style: none;">
+	<tr>
+		<td style="width: 140px; text-align: center;">
+			<a href="https://aka.ms/vscode-remote/download/extension">
+				<img width="128px" src="https://microsoft.github.io/vscode-remote-release/images/remote-extensionpack.png" alt="Visual Studio Code logo" />
+			</a>
+		</td>
+		<td>
+			<strong>
+				Visual Studio Code Dev Containers and GitHub Codespaces
+			</strong>
+			<br />
+			<i>
+				Open your code in the cloud, in a local container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
+			</i>
+		</td>
+	</tr>
+</table>
 
 **IMPORTANT NOTE: As noted in the section above, this repository is no longer active and will be archived in November 2023.**
 
